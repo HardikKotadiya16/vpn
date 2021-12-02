@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "country": "Japan",
+      "flag": "",
+      "vpngatefile": "",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
+      "country": "United States",
+      "flag": "",
+      "vpngatefile": "",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
+      "country": "UAE",
+      "flag": "",
+      "vpngatefile": "",
+      "username": "vpn",
+      "password": "vpn"
+    },
+    {
+      "country": "China",
+      "flag": "",
+      "vpngatefile": "",
+      "username": "vpn",
+      "password": "vpn"
+    }
+  ]
+}
