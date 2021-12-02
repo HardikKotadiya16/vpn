@@ -2,29 +2,29 @@
   "data": [
     {
       "country": "Japan",
-      "flag": "",
-      "vpngatefile": "",
+      "flag": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/flag/japan.png",
+      "vpngatefile": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/vpngatefile/japan.ovpn",
       "username": "vpn",
       "password": "vpn"
     },
     {
       "country": "United States",
-      "flag": "",
-      "vpngatefile": "",
+      "flag": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/flag/united_states.png",
+      "vpngatefile": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/vpngatefile/us.ovpn",
       "username": "vpn",
       "password": "vpn"
     },
     {
       "country": "UAE",
-      "flag": "",
-      "vpngatefile": "",
+      "flag": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/flag/uae.png",
+      "vpngatefile": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/vpngatefile/uae.ovpn",
       "username": "vpn",
       "password": "vpn"
     },
     {
       "country": "China",
-      "flag": "",
-      "vpngatefile": "",
+      "flag": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/flag/china.png",
+      "vpngatefile": "https://raw.githubusercontent.com/HardikKotadiya16/vpn/main/vpngatefile/china.ovpn",
       "username": "vpn",
       "password": "vpn"
     }
